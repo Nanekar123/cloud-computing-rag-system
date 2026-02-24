@@ -1,6 +1,6 @@
-# ☁️ Cloud Computing RAG System using Ollama + LangChain
+#  Cloud Computing RAG System using Ollama + LangChain
 
-## 👩‍🎓 Student Details
+##  Student Details
 
 **Name:** Supriya Nanekar
 **Subject:** Cloud Computing
@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project is an **AI-powered Cloud Computing Assistant** that answers user questions based on a given PDF (study material).
 
@@ -16,7 +16,7 @@ The system uses **RAG (Retrieval Augmented Generation)** to retrieve relevant co
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 The main objective of this project is to:
 
@@ -26,7 +26,7 @@ The main objective of this project is to:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * LangChain
@@ -38,7 +38,7 @@ The main objective of this project is to:
 
 ---
 
-## 🔁 System Workflow
+##  System Workflow
 
 1. Load PDF using PyPDFLoader
 2. Split document into smaller chunks
@@ -50,7 +50,7 @@ The main objective of this project is to:
 
 ---
 
-## 🧠 What is RAG?
+##  What is RAG?
 
 **RAG (Retrieval Augmented Generation)** is a technique that combines:
 
@@ -79,7 +79,7 @@ cloud-computing-rag-system/
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ### 1️⃣ Clone Repository
 
@@ -114,7 +114,7 @@ notebooks/Cloud_RAG_Assistant.ipynb
 
 ---
 
-## 🧪 Sample Questions Tested
+##  Sample Questions Tested
 
 * What is cloud computing?
 * Explain IaaS, PaaS, SaaS
@@ -125,13 +125,13 @@ notebooks/Cloud_RAG_Assistant.ipynb
 
 ---
 
-## 📈 Output
+##  Output
 
 The system generates answers based only on the provided PDF data, ensuring **accuracy and relevance**.
 
 ---
 
-## ✅ Advantages
+##  Advantages
 
 * Works completely offline using Ollama
 * No API cost required
@@ -140,7 +140,7 @@ The system generates answers based only on the provided PDF data, ensuring **acc
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 
 * Answers only from uploaded PDF
 * Requires local setup
@@ -148,7 +148,7 @@ The system generates answers based only on the provided PDF data, ensuring **acc
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * Add web interface using Streamlit
 * Support multiple PDFs
@@ -157,12 +157,12 @@ The system generates answers based only on the provided PDF data, ensuring **acc
 
 ---
 
-## 🙏 Conclusion
+##  Conclusion
 
 This project demonstrates how **Cloud Computing concepts** can be integrated with **AI and RAG architecture** to build an intelligent study assistant.
 
 ---
 
-## 📚 Acknowledgement
+##  Acknowledgement
 
 This project is developed as part of **Cloud Computing Academic Assignment**.
